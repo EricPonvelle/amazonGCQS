@@ -40,7 +40,7 @@ code {
 
 /* SIDEBAR */
 #sidebar {
-  background: hsl(266, 89%, 71%);
+  background: #111;
   color: #fff;
   float: left;  
   height: 100%;
