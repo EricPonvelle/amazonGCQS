@@ -440,7 +440,7 @@ code {
 
 /* SIDEBAR */
 #sidebar {
-  background: rgb(203, 128, 247);
+  background: #111;
   color: #fff;
   float: left;  
   height: 100%;
