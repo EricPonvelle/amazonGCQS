@@ -1,0 +1,7 @@
+{
+    "name": "agcqs",
+    "description": "A Quickstart guide for Amazon Gift Cards",
+    "version": "0.0.1",
+    "local": ["boot"],
+    "paths": ["lib"]
+}

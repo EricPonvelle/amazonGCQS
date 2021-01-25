@@ -1,0 +1,7 @@
+---
+exclude: ['README.markdown']
+permalink: ':title'
+highlighter: pygments
+markdown: kramdown
+safe: false
+title: 'Amazon Gift Card Primer'
