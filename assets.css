@@ -73,6 +73,10 @@ blockquote {
   font-family: 'Ubuntu', sans-serif;
 }
 
+blockquote img {
+  padding: 10px;
+}
+
 /**
  * Remove default margin.
  */
