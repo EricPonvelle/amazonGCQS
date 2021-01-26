@@ -24,6 +24,12 @@ a:hover {
   text-decoration: underline;
 }
 
+blockquote {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+}
+
 h1,
 h2,
 h3,
@@ -166,6 +172,11 @@ code {
 /* Default */
 #content article {
   border-color: #e2e7ea;
+}
+
+#content img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 #content article a h2 code {
