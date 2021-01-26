@@ -227,8 +227,9 @@ sub {
  */
 
 img {
-    border: 2px;
-    border-color: #919191;
+    border: 5px;
+    border-style: solid;
+    border-color: hsl(0, 100%, 79%);
     max-width: 100%;
     max-height: 100%;
 }
