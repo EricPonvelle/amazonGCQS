@@ -6,7 +6,7 @@ layout: null
 
 ## Amazon's Humble Origins
 
-When Jeff Bezos began Amazon in 1994, he started out of a garage, selling books. Today, Amazon is a multi-national billion-dollar online retailer of more than 12 million products from manufacturers and second-hand markets. Sourced from global *and* local markets, Amazon can provide myriad goods and products for customers anywhere. For more information on the Amazon company, see the **About Us** page on the [**Amazon website**](https://www.aboutamazon.com/about-us){:target="_blank"}.
+When Jeff Bezos began Amazon in 1994, he started out of a garage, selling books. Today, Amazon is a multi-national billion-dollar online retailer of more than 12 million products from manufacturers and second-hand markets. Sourced from global *and* local markets, Amazon can provide a nearly endless selection goods and products for customers anywhere. For more information on the Amazon company, see the **About Us** page on the [**Amazon website**](https://www.aboutamazon.com/about-us){:target="_blank"}.
 
 ![The Amazon Web Store Homepage](amazon-home.png)
 

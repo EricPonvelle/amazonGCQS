@@ -5,22 +5,22 @@ title: 'Purchasing an Amazon Gift Card'
 layout: null
 ---
 
-There are two ways to purchase an Amazon Gift Card:
-    1. In a physical form a local store,
-    1. Purchasing a digital gift card from the Amazon web store.
+There are two ways to purchase an Amazon Gift Card:  
+1. physical form at a local store,  
+1. digital gift card from the Amazon web store.
 
 For information on local stores where Amazon Gift Cards may be published, see the [**Amazon Gift Card**](https://www.amazon.com/b/?node=13582391011){:target="_blank"} website.
 
 ## Buying a digital Amazon Gift Card
 
 There are two paths to purchasing an Amazon Gift Card:
-1. Visit the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}.  
+1. Visit the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}. There are three methods for delivering the Amazon Gift Card. The purchasing process is the same as the process detailed in **Step 2**, save for how the gift card is delivered.
     
     ![Amazon Gift Card Hub](gifthub-1.png)  
     
-    1. There are three options of delivery methods: eGift, "Print at Home," and "Mail." Choose the method that is best for you. In this example, follow **Step 2** for the eGift Delivert method. The other methods are require a printer or a mailing address, respectively.  
-    1. This section allows you to select by occasion. This is purely a cosmetic choice.  
-    1. This section allows you to purchase a gift to from third-party source, such as Apple gift cards for your Apple account, Visa cards, and Starbucks gift cards.
+    1. eGift - This method sends the gift card via email or text message, 
+    1. Print at Home - This method is the same as an eGift Card with the difference that it is printed at home, requiring the user have a printer or method of saving the gift card. 
+    1. Mail - This method will ship a physical gift card to an address that the buyer specifies.  
 1. Buying an [**Amazon.com eGift Card**](https://www.amazon.com/Amazon-Amazon-com-eGift-Cards/dp/BT00DC6QU4){:target=_target"}.  
         
     ![The Purchase Details Screen for an Amazon Gift Card](giftcard-purchase.png)

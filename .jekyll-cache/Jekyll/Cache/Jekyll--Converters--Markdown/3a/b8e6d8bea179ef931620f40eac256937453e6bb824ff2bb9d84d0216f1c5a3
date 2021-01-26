@@ -1,5 +1,5 @@
-I"z<p>There are two ways to purchase an Amazon Gift Card:
-    1. In a physical form a local store,
+I"<p>There are two ways to purchase an Amazon Gift Card:<br />
+    1. physical form at a local store,<br />
     1. Purchasing a digital gift card from the Amazon web store.</p>
 
 <p>For information on local stores where Amazon Gift Cards may be published, see the <a href="https://www.amazon.com/b/?node=13582391011" target="_blank"><strong>Amazon Gift Card</strong></a> website.</p>
@@ -8,8 +8,11 @@
 
 <p>There are two paths to purchasing an Amazon Gift Card:</p>
 <ol>
-  <li>Visit the <a href="https://www.amazon.com/gift-cards/b?ie=UTF8&amp;node=2238192011" target="_blank"><strong>Amazon Gift Card Hub</strong></a>.<br />
- <img src="gifthub-1.png" alt="Amazon Gift Card Hub" />
+  <li>
+    <p>Visit the <a href="https://www.amazon.com/gift-cards/b?ie=UTF8&amp;node=2238192011" target="_blank"><strong>Amazon Gift Card Hub</strong></a>.</p>
+
+    <p><img src="gifthub-1.png" alt="Amazon Gift Card Hub" /></p>
+
     <ol>
       <li>There are three options of delivery methods: eGift, “Print at Home,” and “Mail.” Choose the method that is best for you. In this example, follow <strong>Step 2</strong> for the eGift Delivert method. The other methods are require a printer or a mailing address, respectively.</li>
       <li>This section allows you to select by occasion. This is purely a cosmetic choice.</li>
@@ -19,25 +22,22 @@
   <li>
     <p>Buying an <a href="https://www.amazon.com/Amazon-Amazon-com-eGift-Cards/dp/BT00DC6QU4"><strong>Amazon.com eGift Card</strong></a>.</p>
 
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> ![The Purchase Details Screen for an Amazon Gift Card](giftcard-purchase.png)
-</code></pre></div>    </div>
+    <p><img src="giftcard-purchase.png" alt="The Purchase Details Screen for an Amazon Gift Card" /></p>
 
     <ol>
       <li><strong>Card Designs</strong> - This is a purely cosmetic step for the digital Amazon Gift Card. This has no bearing on the product.</li>
       <li><strong>Amount</strong> - Select from a pre-filled amount, or enter a custom value.
         <blockquote>
-          <p><strong>NOTE:</strong> The amount specified here must be greater than $1 (USD).</p>
+          <p><strong>NOTE:</strong> The amount specified here must be greater than $1 (USD). <br />
+ <img src="min-val.png" alt="A minimum value warning displays for any values that are less than $1.00." /></p>
         </blockquote>
-
-        <p><img src="min-val.png" alt="A minimum value warning displays for any values that are less than $1.00." /></p>
       </li>
       <li><strong>Delivery</strong> - Select either an email or text message delivery.</li>
       <li><strong>To</strong> - Enter a recipent’s email address or phone number, depending on the previous option. The destination can be your own email box or cellphone.
         <blockquote>
-          <p><strong>NOTE:</strong> If the email addressed entered here is the same as the address associated with the purchasing account, a suggestion to reload the card will appear.</p>
+          <p><strong>NOTE:</strong> If the email addressed entered here is the same as the address associated with the purchasing account, a suggestion to reload the card will appear.<br />
+ <img src="emailSelf.png" alt="Reloading the card is done from the Gift Card Hyb." /></p>
         </blockquote>
-
-        <p><img src="emailSelf.png" alt="Reloading the card is done from the Gift Card Hyb." /></p>
       </li>
       <li><strong>From</strong> and <strong>Message</strong> - These fields allow you to share your name and a message to the gift recipent.</li>
       <li>
