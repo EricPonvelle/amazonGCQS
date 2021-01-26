@@ -22,7 +22,7 @@ To purchase an Amazon Gift Card:
     1. Print at Home - This method is the same as an eGift Card with the difference that it is printed at home, requiring the user have a printer or method of saving the gift card. 
     1. Mail - This method will ship a physical gift card to an address that the buyer specifies.  
       
-1. Buying an [**Amazon.com eGift Card**](https://www.amazon.com/Amazon-Amazon-com-eGift-Cards/dp/BT00DC6QU4){:target=_target"}.  
+1. Buy an [**Amazon.com eGift Card**](https://www.amazon.com/Amazon-Amazon-com-eGift-Cards/dp/BT00DC6QU4){:target=_target"} from the store page.  
         
     ![The Purchase Details Screen for an Amazon Gift Card](giftcard-purchase.png)
     
