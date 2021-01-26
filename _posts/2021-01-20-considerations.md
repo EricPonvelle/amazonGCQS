@@ -5,33 +5,26 @@ title: 'Considerations and Restrictions of Amazon Gift Cards'
 layout: null
 ---
 
-This method allows the user to retrieve his stuff.
+There are a few considersations and restrictions with Amazon Gift Cards
 
-### Request
+## Reloading Balance
 
-* **`:id`** is the id the thing to update.
-* The headers must include a **valid authentication token**.
-* **The body can't be empty** and must include at least the name attribute, a `string` that will be used as the name of the thing.
+Amazon Gift Card populate a virtual wallet on Amazon.com. Many users prefer this method of payment as it does not disclose personal financial information. If you wish to re-load your balance, navigate to the the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}. Once there, select the "Reload your balance option."
 
-```Authentication: bearer f862f658-ad89-4fcb-995b-7a4c50554ff6```
-```{
-    name: 'My new thing'
-}```
+![On the Amazon Gift Card Hub, the Reload your balance is at the top.](reload1.png)  
 
-### Response
+Once selected, a process similar to the one detailed in the Purchasing an Amazon Gift Card section displays. Select the value, the method of payment, and complete the transaction. Your updated balance will be available on the Amazon Gift Card Hub.
 
-Sends back a collection of things.
+![The process to re-load a gift card is the same as purchasing.](reload2.png)
 
-```Status: 200 OK```
-```{
-    {
-        id: thing_1,
-        name: 'My first thing'
-    },
-    {
-        id: thing_2,
-        name: 'My second thing'
-    }
-}```
+## Amazon Gift Card Balance Expiration
 
-For errors responses, see the [response status codes documentation](#response-status-codes).
+Amazon Gift Cards and their values do not expire. There are also no fees applied to Amazon Gift Cards.
+
+## Limitations
+
+Gift Cards and their values added to an account cannot be used to by other gift cards.
+
+Individual Amazon Gift cards, physical nor digital, cannot be reloaded and resold. 
+
+Gift Cards cannot be refunded for cash.

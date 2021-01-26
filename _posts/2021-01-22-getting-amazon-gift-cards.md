@@ -14,7 +14,7 @@ For information on local stores where Amazon Gift Cards may be published, see th
 ## Buying a digital Amazon Gift Card
 
 There are two paths to purchasing an Amazon Gift Card:
-1. Visit the [**Amazon Gift Card Page**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}.  
+1. Visit the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}.  
     ![Amazon Gift Card Hub](gifthub-1.png)  
     1. There are three options of delivery methods: eGift, "Print at Home," and "Mail." Choose the method that is best for you. In this example, follow **Step 2** for the eGift Delivert method. The other methods are require a printer or a mailing address, respectively.  
     1. This section allows you to select by occasion. This is purely a cosmetic choice.  
@@ -35,4 +35,5 @@ There are two paths to purchasing an Amazon Gift Card:
     1. **Delivery Date** - Select when to deliver the digital card. The default is immediately.
     ![A calendar pops up to select a date to send the card.](selectAdate.png)
     1. **Complete Transaction** - Either add the card(s) to your cart or select Buy It Now to immediately purchase the card with your default payment method. For more information on completing the purchase, see the [**Proceed to Checkout**](https://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&nodeId=201889290&qid=1611635317&sr=1-1){:target="_blank"} topic in the Amazon Help Documentation.
- 
+
+Once purchased and shipped, the gift card is ready for redemption by the recipent. See the **Redeeming and Using an Amazon Gift Card** section for more information on the next steps of this process.
