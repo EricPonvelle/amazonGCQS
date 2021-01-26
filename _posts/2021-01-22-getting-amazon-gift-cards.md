@@ -13,7 +13,7 @@ For information on local stores where Amazon Gift Cards may be purchased, see th
 
 ## Buying a digital Amazon Gift Card
 
-To purchas an Amazon Gift Card:
+To purchase an Amazon Gift Card:
 1. Visit the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}. There are three methods for delivering the Amazon Gift Card. 
     
     ![Amazon Gift Card Hub](gifthub-1.png)  
