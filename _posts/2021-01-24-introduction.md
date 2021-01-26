@@ -8,7 +8,7 @@ layout: null
 
 This guide is intended for users who wish to use Amazon Gift Cards. 
 
-This guide covers the various ways of obtaining an Amazon Gift, including purchasing for a friend or relative or receiving one via e-mail or postal mail. Then, the guide discusses how to redeem the gift card for use on Amazon.com, how to reload a gift card balance, and covers some of the restrictions with an Amazon Gift Card.
+This guide covers the various ways of obtaining an Amazon Gift Card, including purchasing for a friend or relative or receiving one via e-mail or postal mail. Then, the guide discusses how to redeem the gift card for use on Amazon.com, how to reload a gift card balance, and covers some of the restrictions with an Amazon Gift Card.
 
 For the absolute initiate users, a brief overview of what Amazon is is covered in the **What is Amazon, and What are Amazon Gift Cards?** section of this documentation.
 

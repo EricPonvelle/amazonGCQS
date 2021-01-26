@@ -9,11 +9,11 @@ There are two ways to purchase an Amazon Gift Card:
 1. physical form at a local store,  
 1. digital gift card from the Amazon web store.
 
-For information on local stores where Amazon Gift Cards may be published, see the [**Amazon Gift Card**](https://www.amazon.com/b/?node=13582391011){:target="_blank"} website.
+For information on local stores where Amazon Gift Cards may be purchased, see the [**Amazon Gift Card**](https://www.amazon.com/b/?node=13582391011){:target="_blank"} website.
 
 ## Buying a digital Amazon Gift Card
 
-There are two paths to purchasing an Amazon Gift Card:
+To purchas an Amazon Gift Card:
 1. Visit the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}. There are three methods for delivering the Amazon Gift Card. 
     
     ![Amazon Gift Card Hub](gifthub-1.png)  
@@ -43,6 +43,6 @@ There are two paths to purchasing an Amazon Gift Card:
 
         ![A calendar pops up to select a date to send the card.](selectAdate.png)  
 
-    1. **Complete Transaction** - Either add the card(s) to your cart or select Buy It Now to immediately purchase the card with your default payment method. For more information on completing the purchase, see the [**Proceed to Checkout**](https://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&nodeId=201889290&qid=1611635317&sr=1-1){:target="_blank"} topic in the Amazon Help Documentation.
+    1. **Complete Transaction** - Either add the card(s) to your cart or select "Buy Now" to immediately purchase the card with your default payment method. For more information on completing the purchase, see the [**Proceed to Checkout**](https://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&nodeId=201889290&qid=1611635317&sr=1-1){:target="_blank"} topic in the **Amazon Help Documentation**.
 
 Once purchased and shipped, the gift card is ready for redemption by the recipent. See the **Redeeming and Using an Amazon Gift Card** section for more information on the next steps of this process.

@@ -11,12 +11,16 @@ If you purchased or received an Amazon Gift Card, either as a digital code or a 
 
 With an Amazon eGift Card or physical Gift Card ready, navigate to the [**Redeem a gift card**](https://www.amazon.com/gc/redeem/ref=gc_redeem_new_exp_DesktopRedirect){:target="_blank"} page on the Amazon website.
 
+![Select the redeem link from the hub.](reload1.png)
+
 In the "Enter claim code" field, enter your code. On physical cards, there may be a strip of covering tape that must be removed to see the gift card code. Once entered, select "Apply to your balance." Your "Current Gift Card Balance" will update with the card's value.
+
+![The balance will be uploaded once the claim code is entered.](reload2.png)
 
 
 ## Using the Amazon Gift Card Balance
 
-Once applied to an account, the Amazon Gift Card credit can be applied to nearly any purchases. At checkout, select the 'Change' button next to the "Choose a payment method" section. Under "Your available balance" section, check the box to use some of the gift card balance to pay for the purchase. 
+Once applied to an account, the Amazon Gift Card credit can be applied to nearly any purchases. At checkout, select the "Change" button next to the "Choose a payment method" section. Under "Your available balance" section, check the box to use some of the gift card balance to pay for the purchase. 
 
 ![The amount of the purchase is shown against the total gift card balance.](using-gc.png)  
 

@@ -68,7 +68,7 @@ html {
 }
 
 blockquote {
-  background-color: #000;
+  background-color: rgb(133, 133, 133);
   color: #fff;
   font-family: 'Ubuntu', sans-serif;
   padding: 20px 50px 5px;
