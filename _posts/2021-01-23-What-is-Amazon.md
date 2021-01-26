@@ -10,8 +10,8 @@ When Jeff Bezos began Amazon in 1994, he started out of a garage, selling books.
 
 ![The Amazon Web Store Homepage](amazon-home.png)
 
-## Anazon Gift Card
+## Amazon Gift Card
 
 Amazon accepts all major forms of payment such as credit card, debit, and other methods of payment. For more information, see [**the Accepted Payments**](https://www.amazon.com/gp/help/customer/display.html?nodeId=GFBWMNXEPYVJAY9A){:target="_blank"} page on the **Amazon Help Site**.
 
-Amazon Gift cards function as a temporary method of payment. Users either purchase or receive an Amazon Gift Card for a set value, such as $25, that allows them to purchase almost anything from the Amazon Web Store. Some restrictions do apply. For more information, see the **Considerations and Restrictions** section.
+Amazon Gift Cards function as a temporary method of payment. Users either purchase or receive an Amazon Gift Card for a set value, such as $25, that allows them to purchase almost anything from the Amazon Web Store. Some restrictions do apply. For more information, see the **Considerations and Restrictions** section.
