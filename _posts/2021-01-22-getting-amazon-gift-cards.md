@@ -14,18 +14,19 @@ For information on local stores where Amazon Gift Cards may be published, see th
 ## Buying a digital Amazon Gift Card
 
 There are two paths to purchasing an Amazon Gift Card:
-1. Visit the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}. There are three methods for delivering the Amazon Gift Card. The purchasing process is the same as the process detailed in **Step 2**, save for how the gift card is delivered.
+1. Visit the [**Amazon Gift Card Hub**](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011){:target="_blank"}. There are three methods for delivering the Amazon Gift Card. 
     
     ![Amazon Gift Card Hub](gifthub-1.png)  
     
     1. eGift - This method sends the gift card via email or text message, 
     1. Print at Home - This method is the same as an eGift Card with the difference that it is printed at home, requiring the user have a printer or method of saving the gift card. 
     1. Mail - This method will ship a physical gift card to an address that the buyer specifies.  
+      
 1. Buying an [**Amazon.com eGift Card**](https://www.amazon.com/Amazon-Amazon-com-eGift-Cards/dp/BT00DC6QU4){:target=_target"}.  
         
     ![The Purchase Details Screen for an Amazon Gift Card](giftcard-purchase.png)
     
-    1. **Card Designs** - This is a purely cosmetic step for the digital Amazon Gift Card. This has no bearing on the product. 
+    1. **Card Designs** - This is a purely cosmetic step for the digital Amazon Gift Card. This option has no bearing on the product; however, there are different designs for various occasions such as graduations, weddings, and birthdays.
     1. **Amount** - Select from a pre-filled amount, or enter a custom value.
     > **NOTE:** The amount specified here must be greater than $1 (USD).   
     ![A minimum value warning displays for any values that are less than $1.00.](min-val.png)
