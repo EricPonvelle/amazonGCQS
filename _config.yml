@@ -1,7 +1,7 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
-highlighter: pygments
+highlighter: rogue
 markdown: kramdown
 safe: false
 title: 'Amazon Gift Card Primer'
